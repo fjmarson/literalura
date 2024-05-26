@@ -42,8 +42,11 @@ Al iniciar la aplicación LiterAlura, se le presentará un menú de opciones par
 
 Elija una opción del menú y siga las indicaciones para interactuar con la aplicación. La aplicación mostrará los resultados de su consulta o acción.
 
-## Autor
+Autor
+------------
 
 Fernando Jorge Marson
-https://github.com/fjmarson
-linkedin.com/in/fernando-marson-dev
+
+[GitHub](https://github.com/fjmarson)
+
+[LinkedIn](https://www.linkedin.com/in/fernando-marson-dev)
